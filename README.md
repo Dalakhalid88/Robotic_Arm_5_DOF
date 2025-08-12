@@ -25,17 +25,15 @@ Robotic Arm 5 DOF - 3D Design/
 ├── Robotic Arm 5 DOF.svg
 ├── tinker.obj
 ├── obj.mtl
-└── images/
-    ├── front_view.png
-    ├── side_view.png
-    ├── another_view.png
-    └── design_render.png   # Main perspective render
+├── front_view.png
+├── side_view.png
+└── another_view.png
 ```
 
 ## Images & Joint Mapping
 
 ### Full Design
-![Full Design](images/design_render.png)
+![Full Design](another_view.png)
 
 ### Joint Mapping
 1. **Base (J1)** — Rotates horizontally.  
@@ -44,8 +42,8 @@ Robotic Arm 5 DOF - 3D Design/
 4. **Wrist Pitch (J4)** — Tilts gripper.  
 5. **Wrist Roll (J5)** — Rotates gripper.
 
-![Front View](images/front_view.png)  
-![Side View](images/side_view.png)  
-![Another View](images/another_view.png)
+![Front View](front_view.png)  
+![Side View](side_view.png)  
+![Another View](another_view.png)
 
 
